@@ -1,11 +1,4 @@
 
-██████╗ ██████╗ ██╗███╗   ██╗      ███████╗██╗   ██╗███████╗███████╗███████╗██████╗ 
-██╔══██╗██╔══██╗██║████╗  ██║      ██╔════╝██║   ██║╚══███╔╝╚══███╔╝██╔════╝██╔══██╗
-██║  ██║██████╔╝██║██╔██╗ ██║█████╗█████╗  ██║   ██║  ███╔╝   ███╔╝ █████╗  ██████╔╝
-██║  ██║██╔═══╝ ██║██║╚██╗██║╚════╝██╔══╝  ██║   ██║ ███╔╝   ███╔╝  ██╔══╝  ██╔══██╗
-██████╔╝██║     ██║██║ ╚████║      ██║     ╚██████╔╝███████╗███████╗███████╗██║  ██║
-╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝      ╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-
 # Droid-PinFuzzer(Brute Force Android Lock Screen Pins)
 #        (4 Digit PIN ONLY)
 # In the future Updates will add up to 12 digit pin.
@@ -33,6 +26,3 @@ Go to the location where you have saved the given file for Example if you have s
 1st make DPin-Fuzzer.sh  file executable to do that just type (chmod +x DPin-Fuzzer.sh ) using terminal 
 now jst type ( ./DPin-Fuzzer.sh  ) without bracket :-P
 Brute Force will start on device it will start combination of all the 4 digit pin right from (0000 to 9999)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tit9_D1878U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
